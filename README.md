@@ -10,7 +10,7 @@
     ```
 3. Install requirements
     ```
-    pip install -m requirements.txt
+    pip install -r requirements.txt
     ```
 4. Run APPLICATION
     ```
